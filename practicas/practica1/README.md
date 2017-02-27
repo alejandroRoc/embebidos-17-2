@@ -1,5 +1,7 @@
 ## Práctica 1 ##
 
+# AQUI TENGO QUE AGREGAR EL CONTENIDO DE LA PRÁCTICA #
+
 1. En esta práctica deben probar tres modos de acceder a la tarjeta RaspberryPi 3:
 	* Cargar la imagen de raspbian en una memoria SD al menos clase 10 de 8 GB.
 	* Comprobar el funcionamiento conectando Monitor, teclado y ratón.
@@ -17,3 +19,9 @@
 5. Revisar el enlace [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/).
 
 6. El reporte se debe subir a github el viernes 24 de febrero del 2017 a mas tardar a las 23:59:59.
+
+7. Hola, estoy divirtiéndome conn las ramas....!
+
+8. Texto en negritas: **Alejandra**
+
+9. Texto en italicas: *Alejandra*

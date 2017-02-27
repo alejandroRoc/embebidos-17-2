@@ -4,4 +4,6 @@ lab2/mkdir username
 Entonces tendran:
 lab2/username/
 
-En esta carpeta deben realizar las actividades del laboratorio 2.
+En esta carpeta deben:
+Realizar las actividades del laboratorio 2.
+Agregar un archivo README.md con su nombre completo

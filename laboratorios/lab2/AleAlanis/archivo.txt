@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Informacion de la rama laboratorio2
+=======
+Este es un archivo de texto en la rama laboratorio2
+>>>>>>> 0edfd155ec97d54001ad90b69628dfd1af213e2b
