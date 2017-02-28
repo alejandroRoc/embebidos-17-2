@@ -1,14 +1,18 @@
 # Makefiles
-## so de caracteres Wildcard, funciones para análisis y sustitución de cadenas
+## Uso de caracteres Wildcard, funciones para análisis y sustitución de cadenas
 
 Compilar:
-  gcc muestreo.c -o muestreo.out -lm -Wall
-
+```
+  $ make 
+```
 
 Ejecutar:
-  ./bin/muestreo.out
-
+```
+  $ ./bin/muestreo.out
+```
 
 Graficar:
+```
          $ gnuplot
   gnuplot> load '../graf_seno.gnu'
+```

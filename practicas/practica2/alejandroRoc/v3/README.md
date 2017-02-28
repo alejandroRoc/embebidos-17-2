@@ -2,13 +2,17 @@
 ## Variables, variables automáticas y reglas de patrón
 
 Compilar:
-  gcc muestreo.c -o muestreo.out -lm -Wall
-
+```
+  $ make 
+```
 
 Ejecutar:
-  ./bin/muestreo.out
-
+```
+  $ ./bin/muestreo.out
+```
 
 Graficar:
+```
          $ gnuplot
   gnuplot> load '../graf_seno.gnu'
+```
